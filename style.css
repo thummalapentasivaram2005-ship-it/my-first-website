@@ -140,3 +140,17 @@ html {
     color: #1565c0;
     font-size: 22px;
 }
+.resume-button {
+    display: inline-block;
+    background-color: #007bff;
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.resume-button:hover {
+    background-color: #0056b3;
+}
